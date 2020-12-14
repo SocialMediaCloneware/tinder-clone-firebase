@@ -10,6 +10,9 @@ function App() {
       {/* Tinder Cards */}
       {/* Buttons below tinder cards */}
 
+      {/* Chat screen */}
+      {/* Inidividual chat screen */}
+
     </div>
   );
 }
