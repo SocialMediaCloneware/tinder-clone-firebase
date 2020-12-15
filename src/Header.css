@@ -1,6 +1,7 @@
 .header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     border-bottom: 1px solid #f9f9f9;
 }
 
@@ -8,4 +9,8 @@
     height: 3vw;
     object-fit: contain;
     
+}
+
+.header_icon {
+    padding: 20px;
 }
